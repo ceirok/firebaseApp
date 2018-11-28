@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "386990320728",
+    "firebase_url": "https://fir-app-1993f.firebaseio.com",
+    "project_id": "fir-app-1993f",
+    "storage_bucket": "fir-app-1993f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386990320728:android:799d7c770c369339",
+        "android_client_info": {
+          "package_name": "com.example.opilane.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386990320728-k50jvjhvkmt4h9sgv7k4k6ev4qofs18h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWRNw6JnsxnOWMS1EUW2pNPEjmevhTPYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
